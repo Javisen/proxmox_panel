@@ -1,6 +1,4 @@
-
 {
-  "files": [
-    "panel-proxmox.js"
-  ]
+  "files": ["panel-proxmox.js"]
 }
+
